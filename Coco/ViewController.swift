@@ -35,6 +35,7 @@ class ViewController: UIViewController {
     
     @objc func buttonDidTapped() {
         print("Button tapped")
+        print()
     }
     
     private func configureTitleLabel() {
